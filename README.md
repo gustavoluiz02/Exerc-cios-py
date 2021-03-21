@@ -1,1 +1,1 @@
-# Exerc-cios-py
+# Exercícios Faculdade
